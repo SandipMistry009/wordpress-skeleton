@@ -1,0 +1,12 @@
+.login h1,#wp-admin-bar-wp-logo,#wpfooter{
+	display: none;
+}
+body.login{
+	background-image: url("admin-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+	overflow: hidden;    
+}
+#loginform{
+	border-radius: 10px !important;
+}

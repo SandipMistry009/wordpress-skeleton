@@ -34,3 +34,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
   - additional themes get deleted
   - wp-config.php - file gets changed with latest additional features 
 ### Fixed
+
+
+## [0.0.2] - 27-06-2024
+ 
+### Added
+  - WP Email Template - Plugin added
+  - My Admin  - Custom Plugin made for existing settings for the new wordpress blog 
+### Changed
+### Fixed
